@@ -16,7 +16,7 @@ By making changes to this document I, Ethan Thomas, certify my contributions and
 # Olivia Larson 
 I am working with Ethan and helping with the Integration Testing and Alpha/Beta Testing as well. This means I will be doing a lot of the backend coding and making sure the app is doing what it is supposecd to do. My biggest goal for this project is to be available to meet and get work done with my team. Working together to figure out tough bit of code makes it more managable. #team work makes the dream work
 
-
+By making changes to this document I, Olivia Larson, certify my contributions and commitment to this project. #signed 
 
 
 
