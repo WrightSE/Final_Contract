@@ -18,6 +18,11 @@ I am working with Ethan and helping with the Integration Testing and Alpha/Beta 
 
 By making changes to this document I, Olivia Larson, certify my contributions and commitment to this project. #signed 
 
+# Sarah Wright
+I will be working mostly on the GUI and communicating with the client and potentially helping with the integration as things change and evolve through the project and the GUI. Within these roles, my primary goals will be to keep up an efficient stream of communication between my team members and the clients as well as making the GUI visually appealing while interacting with the background processes.
+
+By making changes to this document I, Sarah Wright, certify my contributions and commitment to this project. 
+
 
 
 
